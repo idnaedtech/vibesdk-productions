@@ -110,7 +110,7 @@
 		"react-feather": "^2.0.10",
 		"react-hook-form": "^7.66.0",
 		"react-markdown": "^10.1.0",
-	0	"react-resizable-panels": "^3.0.6",
+		"react-resizable-panels": "^3.0.6",
 		"react-router": "^7.9.5",
 		"recharts": "^3.3.0",
 		"rehype-external-links": "^3.0.0",
@@ -167,4 +167,4 @@
 		"@cloudflare/containers": "^0.0.28"
 	}
 }
-fix vite override for Cloudflare Pages
+fix package.json JSON parse error
